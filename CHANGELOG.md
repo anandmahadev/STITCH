@@ -7,3 +7,4 @@
 - 2026-05-02: style: Standardize indentation rules
 - 2026-05-02: feat: Setup base for upcoming UI components
 - 2026-05-02: docs: Document routing behavior
+- 2026-05-02: refactor: Optimize asset loading strategy
