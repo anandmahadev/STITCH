@@ -18,3 +18,4 @@
 - 2026-05-02: docs: Add API integration notes
 - 2026-05-02: feat: Prepare accessibility improvements
 - 2026-05-02: style: Refine component spacing tokens
+- 2026-05-02: docs: Document animation duration standards
