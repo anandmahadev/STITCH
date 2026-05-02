@@ -3,3 +3,4 @@
 - 2026-05-02: docs: Add initial CHANGELOG documentation
 - 2026-05-02: style: Update code styling guidelines
 - 2026-05-02: refactor: Prepare project for modular structure
+- 2026-05-02: docs: Add architecture overview
