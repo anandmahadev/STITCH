@@ -24,3 +24,4 @@
 - 2026-05-02: docs: Add deployment instructions
 - 2026-05-02: perf: Note bundle size targets
 - 2026-05-02: style: Standardize transition easing
+- 2026-05-02: docs: Document testing strategies
