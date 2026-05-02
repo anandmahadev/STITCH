@@ -26,3 +26,4 @@
 - 2026-05-02: style: Standardize transition easing
 - 2026-05-02: docs: Document testing strategies
 - 2026-05-02: refactor: Prepare environment variable config
+- 2026-05-02: style: Update z-index layer definitions
