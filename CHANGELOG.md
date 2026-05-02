@@ -21,3 +21,4 @@
 - 2026-05-02: docs: Document animation duration standards
 - 2026-05-02: refactor: Plan global error handling
 - 2026-05-02: style: Update border-radius constants
+- 2026-05-02: docs: Add deployment instructions
