@@ -4,3 +4,4 @@
 - 2026-05-02: style: Update code styling guidelines
 - 2026-05-02: refactor: Prepare project for modular structure
 - 2026-05-02: docs: Add architecture overview
+- 2026-05-02: style: Standardize indentation rules
