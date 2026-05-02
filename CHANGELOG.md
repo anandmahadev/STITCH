@@ -14,3 +14,4 @@
 - 2026-05-02: style: Update typography scale variables
 - 2026-05-02: docs: Document state management approach
 - 2026-05-02: refactor: Clean up unused imports placeholder
+- 2026-05-02: style: Adjust responsive breakpoints
