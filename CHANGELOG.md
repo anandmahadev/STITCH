@@ -19,3 +19,4 @@
 - 2026-05-02: feat: Prepare accessibility improvements
 - 2026-05-02: style: Refine component spacing tokens
 - 2026-05-02: docs: Document animation duration standards
+- 2026-05-02: refactor: Plan global error handling
